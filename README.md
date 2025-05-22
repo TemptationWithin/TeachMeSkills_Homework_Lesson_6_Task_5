@@ -1,11 +1,11 @@
 # TeachMeSkills_Homework_Lesson_6_Task_5
 /**
- *ЗАДАНИЕ 5
- * 	Написать метод, который возвращает пропущенное число в массиве.
- * 	На вход метод будет принимать массив целых чисел, числа будут отличаться на 1. массив может быть не отсортирован.
- * 	Например, массив 1,4,2,5 -> пропущенно число 3
- *
- * 	Что практикуем в этом задании:
- * 		- построение алгоритмов
- * 		- управляющие конструкции, операции ветвления
- */
+*TASK 5
+* Write a method that returns a missing number in an array.
+* The method will accept an array of integers as input, the numbers will differ by 1. The array may not be sorted.
+* For example, an array of 1,4,2,5 -> missing number 3
+*
+* What we practice in this task:
+* - constructing algorithms
+* - control structures, branching operations
+*/
